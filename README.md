@@ -14,8 +14,13 @@ Formado em Jogos digitais, mas atuando como desenvolvedor de aplicativos Android
 <!--[![Site](https://img.shields.io/website?label=alesefs@github.com&style=for-the-badge&url=https://alesefs.github.io/)](https://alesefs.github.io/)-->
 
 
-![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesefs&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesefs&hide_progress=false&langs_count=8&layout=compact&theme=transparent)
+<!--![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesefs&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesefs&hide_progress=false&langs_count=8&layout=compact&theme=transparent) -->
+
+<div>
+    <img align="center" height="180em" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=alesefs&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" />
+    <img align="center" height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesefs&hide_progress=false&langs_count=8&layout=compact&theme=transparent" />
+</div>
 
 ## Tecnologias que uso:
 
