@@ -2,6 +2,9 @@
 
 Formado em Jogos digitais, mas atuando como desenvolvedor de aplicativos Android. No mercado desde 2012, passando por várias tecnologias como Unity, Godot, Phaser e actionScript3 essas focadas em games; HTML/CSS/JS, Ionic3, Ruby On Rails, Swift, porém com foco sempre no desenvolvimento Android, seja em games ou aplicativos.
 
+----
+
+
 [![Site](https://img.shields.io/badge/alesefs.github.io-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alesefs.github.io/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alesefs/)
 
