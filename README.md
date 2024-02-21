@@ -15,10 +15,9 @@ Formado em Jogos digitais, mas atuando como desenvolvedor de aplicativos Android
 
 
 ![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesefs&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesefs&hide_progress=false&langs_count=8&layout=compact&theme=transparent)
 
 ## Tecnologias que uso:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesefs&hide_progress=true)
 
 <div style="display: inline_block">
     <br/>
